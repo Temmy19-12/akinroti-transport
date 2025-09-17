@@ -1,4 +1,4 @@
-# Vision Transport Web App 🚍
+# Akinroti Transport Company LTD 🚍
 
 [![HTML](https://img.shields.io/badge/Frontend-HTML-orange?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/Styles-CSS-blue?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -7,7 +7,7 @@
 [![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)](https://www.postgresql.org/)
 [![License](https://img.shields.io/badge/License-Private-red)](#)
 
-A transport booking platform for **Vision Transport Company**.  
+A transport booking platform for **Akinroti Transport Company LTD**.  
 This project allows customers to **book journeys, track buses, earn loyalty rewards, and make secure payments online**.  
 
 ---
@@ -24,25 +24,22 @@ This project allows customers to **book journeys, track buses, earn loyalty rewa
 
 ## 📂 Project Structure
 
-vision-transport/
+akinroti-transport/
 │
 ├── README.md # Documentation
 ├── index.html # Homepage
 │
 ├── features/ # All features
-│ ├── booking/ # Booking system
-│ ├── loyalty/ # Loyalty program
-│ ├── tracking/ # GPS tracking
-│ ├── payments/ # Payment system
-│ └── messaging/ # Notifications
+│   ├── booking/ # Booking system
+│   ├── loyalty/ # Loyalty program
+│   ├── tracking/ # GPS tracking
+│   ├── payments/ # Payment system
+│   └── messaging/ # Notifications
 │
 ├── css/ # Global styles
 ├── js/ # Global JavaScript
 ├── images/ # Logos, bus images, etc.
 └── assets/ # Fonts, icons, extras
-
-yaml
-Copy code
 
 ---
 
@@ -82,12 +79,12 @@ Copy code
 
 ## 👨‍💻 Contributors
 
-- **[Your Name]** – Founder & Vision Transport Owner  
+- **[Your Name]** – Founder & Akinroti Transport Owner  
 - **Future Developers** – Open for contributions  
 
 ---
 
 ## 📜 License
 
-This project is for **Vision Transport Company**.  
+This project is for **Akinroti Transport Company LTD**.  
 All rights reserved © 2025.
